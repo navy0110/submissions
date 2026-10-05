@@ -1,22 +1,21 @@
 {
   "schema": "dev3pack.submission.v2",
   "cohort": "2026-09",
-  "chapter": "ch05",
+  "chapter": "ch14",
   "student": {
-    "github": "baraa0abd"
+    "github": "navy0110"
   },
-  "submitted_at": "2026-10-04T12:08:36Z",
+  "submitted_at": "2026-10-04T05:14:47Z",
   "result": {
     "ran": true,
     "passed": [
-      "ch05-e1",
-      "ch05-e2"
+      "ch14-e3"
     ],
     "failed": [],
     "not_reached": [],
     "scored": true,
-    "score": 200,
-    "max_score": 200
+    "score": 100,
+    "max_score": 100
   },
   "note": "",
   "help": {
@@ -25,14 +24,13 @@
     "cost": 0
   },
   "environment": {
-    "python": "3.11.16",
+    "python": "3.11.9",
     "platform": "windows"
   },
   "evidence": {
     "notebook": "notebook.ipynb",
-    "notebook_sha256": "61fed1be594b02033022bda77bf919ee3fa781459e798ae1b1f24919a605b78d",
-    "challenge_sha256": "e4d40df1e9070da7e11d35d7c42b9ee4d6998cd696bf460bf6b264a97bf19bec"
+    "notebook_sha256": "dbdb410329feae888191dd7167fe4f2cd2596e1d786c3d7750175232d2a63818"
   },
   "verified": null,
-  "submission_id": "sub_44eaa63fb02414c3b7be3a90"
+  "submission_id": "sub_ab064344f2172e12272b743f"
 }

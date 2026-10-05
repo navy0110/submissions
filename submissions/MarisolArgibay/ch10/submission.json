@@ -1,16 +1,16 @@
 {
   "schema": "dev3pack.submission.v2",
   "cohort": "2026-09",
-  "chapter": "ch05",
+  "chapter": "ch10",
   "student": {
-    "github": "baraa0abd"
+    "github": "MarisolArgibay"
   },
-  "submitted_at": "2026-10-04T12:08:36Z",
+  "submitted_at": "2026-10-04T09:40:20Z",
   "result": {
     "ran": true,
     "passed": [
-      "ch05-e1",
-      "ch05-e2"
+      "ch10-e1",
+      "ch10-e2"
     ],
     "failed": [],
     "not_reached": [],
@@ -18,7 +18,7 @@
     "score": 200,
     "max_score": 200
   },
-  "note": "",
+  "note": "assistant-driven, so it cannot be re-run; the marks rest on the evidence you saved",
   "help": {
     "hinted": 0,
     "revealed": 0,
@@ -30,9 +30,8 @@
   },
   "evidence": {
     "notebook": "notebook.ipynb",
-    "notebook_sha256": "61fed1be594b02033022bda77bf919ee3fa781459e798ae1b1f24919a605b78d",
-    "challenge_sha256": "e4d40df1e9070da7e11d35d7c42b9ee4d6998cd696bf460bf6b264a97bf19bec"
+    "notebook_sha256": "4e1a4ce24c3e1539f6b9d1243060401a0cb783837f6006b8fc31061dd57134b0"
   },
   "verified": null,
-  "submission_id": "sub_44eaa63fb02414c3b7be3a90"
+  "submission_id": "sub_cf9c4c7b94561ce7be4ef2cc"
 }
